@@ -29,8 +29,8 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 
 | Name | Description |
 |------|-------------|
-| [Daily Reddit Digest](usecases/daily-reddit-digest.md) | Summarize a curated digest of your favourite subreddits, based on your preferences. |
-| [Daily YouTube Digest](usecases/daily-youtube-digest.md) | Get daily summaries of new videos from your favorite channels — never miss content from creators you follow. |
+| [Daily Reddit Digest](usecases/daily-reddit-digest.md) ([中文](usecases-cn/daily-reddit-digest.md)) | Summarize a curated digest of your favourite subreddits, based on your preferences. |
+| [Daily YouTube Digest](usecases/daily-youtube-digest.md) ([中文](usecases-cn/daily-youtube-digest.md)) | Get daily summaries of new videos from your favorite channels — never miss content from creators you follow. |
 | [X Account Analysis](usecases/x-account-analysis.md) | Get a qualitative analysis of your X account.|
 | [Multi-Source Tech News Digest](usecases/multi-source-tech-news-digest.md) | Automatically aggregate and deliver quality-scored tech news from 109+ sources (RSS, Twitter/X, GitHub, web search) via natural language. |
 | [X/Twitter Automation](usecases/x-twitter-automation.md) | Post tweets, reply, like, retweet, follow, DM, search, extract data, run giveaways, and monitor accounts — all from chat via the TweetClaw plugin. |
@@ -41,22 +41,22 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 |------|-------------|
 | [Goal-Driven Autonomous Tasks](usecases/overnight-mini-app-builder.md) | Brain dump your goals and have your agent autonomously generate, schedule, and complete daily tasks — including building surprise mini-apps overnight. |
 | [YouTube Content Pipeline](usecases/youtube-content-pipeline.md) | Automate video idea scouting, research, and tracking for a YouTube channel. |
-| [Multi-Agent Content Factory](usecases/content-factory.md) | Run a multi-agent content pipeline in Discord — research, writing, and thumbnail agents working in dedicated channels. |
-| [Autonomous Game Dev Pipeline](usecases/autonomous-game-dev-pipeline.md) | Full lifecycle management of educational game development: from backlog selection to implementation, registration, documentation, and git commit. Enforces "Bugs First" policy. |
-| [Podcast Production Pipeline](usecases/podcast-production-pipeline.md) | Automate the full podcast workflow — guest research, episode outlines, show notes, and social media promo — from topic to publish-ready assets. |
+| [Multi-Agent Content Factory](usecases/content-factory.md) ([中文](usecases-cn/content-factory.md)) | Run a multi-agent content pipeline in Discord — research, writing, and thumbnail agents working in dedicated channels. |
+| [Autonomous Game Dev Pipeline](usecases/autonomous-game-dev-pipeline.md) ([中文](usecases-cn/autonomous-game-dev-pipeline.md)) | Full lifecycle management of educational game development: from backlog selection to implementation, registration, documentation, and git commit. Enforces "Bugs First" policy. |
+| [Podcast Production Pipeline](usecases/podcast-production-pipeline.md) ([中文](usecases-cn/podcast-production-pipeline.md)) | Automate the full podcast workflow — guest research, episode outlines, show notes, and social media promo — from topic to publish-ready assets. |
 
 ## Infrastructure & DevOps
 
 | Name | Description |
 |------|-------------|
-| [n8n Workflow Orchestration](usecases/n8n-workflow-orchestration.md) | Delegate API calls to n8n workflows via webhooks — the agent never touches credentials, and every integration is visual and lockable. |
-| [Self-Healing Home Server](usecases/self-healing-home-server.md) | Run an always-on infrastructure agent with SSH access, automated cron jobs, and self-healing capabilities across your home network. |
+| [n8n Workflow Orchestration](usecases/n8n-workflow-orchestration.md) ([中文](usecases-cn/n8n-workflow-orchestration.md)) | Delegate API calls to n8n workflows via webhooks — the agent never touches credentials, and every integration is visual and lockable. |
+| [Self-Healing Home Server](usecases/self-healing-home-server.md) ([中文](usecases-cn/self-healing-home-server.md)) | Run an always-on infrastructure agent with SSH access, automated cron jobs, and self-healing capabilities across your home network. |
 
 ## Productivity
 
 | Name | Description |
 |------|-------------|
-| [Autonomous Project Management](usecases/autonomous-project-management.md) | Coordinate multi-agent projects using STATE.yaml pattern — subagents work in parallel without orchestrator overhead. |
+| [Autonomous Project Management](usecases/autonomous-project-management.md) ([中文](usecases-cn/autonomous-project-management.md)) | Coordinate multi-agent projects using STATE.yaml pattern — subagents work in parallel without orchestrator overhead. |
 | [Multi-Channel AI Customer Service](usecases/multi-channel-customer-service.md) | Unify WhatsApp, Instagram, Email, and Google Reviews in one AI-powered inbox with 24/7 auto-responses. |
 | [Phone-Based Personal Assistant](usecases/phone-based-personal-assistant.md) | Access your AI agent via phone calls, hands-free voice assistance for any phone. |
 | [Inbox De-clutter](usecases/inbox-declutter.md) | Summarize Newsletters and send you a digest as an email. |
@@ -69,8 +69,8 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 | [Phone-Based Personal Assistant](usecases/phone-based-personal-assistant.md) | Access OpenClaw from any phone via voice call or SMS. Get calendar updates, Jira tickets, and web search results hands-free. |
 | [Family Calendar & Household Assistant](usecases/family-calendar-household-assistant.md) | Aggregate all family calendars into a morning briefing, monitor messages for appointments, and manage household inventory. |
 | [Multi-Agent Specialized Team](usecases/multi-agent-team.md) | Run multiple specialized agents (strategy, dev, marketing, business) as a coordinated team via a single Telegram chat. |
-| [OpenClaw as Desktop Cowork](usecases/aionui-cowork-desktop.md) | Use OpenClaw as a desktop Cowork app — unified UI, multi-agent, MCP once, WebUI/Telegram/Lark/DingTalk. When OpenClaw is down, fix it remotely via Telegram or WebUI using the built-in OpenClaw deployment expert (install, detect, repair). |
-| [Custom Morning Brief](usecases/custom-morning-brief.md) | Get a fully customized daily briefing — news, tasks, content drafts, and AI-recommended actions — texted to you every morning. |
+| [OpenClaw as Desktop Cowork](usecases/aionui-cowork-desktop.md) ([中文](usecases-cn/aionui-cowork-desktop.md)) | Use OpenClaw as a desktop Cowork app — unified UI, multi-agent, MCP once, WebUI/Telegram/Lark/DingTalk. When OpenClaw is down, fix it remotely via Telegram or WebUI using the built-in OpenClaw deployment expert (install, detect, repair). |
+| [Custom Morning Brief](usecases/custom-morning-brief.md) ([中文](usecases-cn/custom-morning-brief.md)) | Get a fully customized daily briefing — news, tasks, content drafts, and AI-recommended actions — texted to you every morning. |
 | [Automated Meeting Notes & Action Items](usecases/meeting-notes-action-items.md) | Turn meeting transcripts into structured summaries and automatically create tasks in Jira, Linear, or Todoist — assigned to the right person. |
 | [Habit Tracker & Accountability Coach](usecases/habit-tracker-accountability-coach.md) | Proactive daily check-ins via Telegram or SMS that track habits, maintain streaks, and adapt their tone based on your progress. |
 | [Second Brain](usecases/second-brain.md) | Text anything to your bot to remember it, then search through all your memories in a custom Next.js dashboard. |
@@ -87,7 +87,7 @@ Solving the bottleneck of OpenClaw adaptation: Not ~~skills~~, but finding **way
 | [Market Research & Product Factory](usecases/market-research-product-factory.md) | Mine Reddit and X for real pain points using the Last 30 Days skill, then have OpenClaw build MVPs that solve them. |
 | [Pre-Build Idea Validator](usecases/pre-build-idea-validator.md) | Automatically scan GitHub, HN, npm, PyPI, and Product Hunt before building anything new — stop if the space is crowded, proceed if it's open. |
 | [Semantic Memory Search](usecases/semantic-memory-search.md) | Add vector-powered semantic search to your OpenClaw markdown memory files with hybrid retrieval and auto-sync. |
-| [arXiv Paper Reader](usecases/arxiv-paper-reader.md) | Read and analyze arXiv papers conversationally — fetch by ID, browse sections, compare abstracts, and get AI summaries. |
+| [arXiv Paper Reader](usecases/arxiv-paper-reader.md) ([中文](usecases-cn/arxiv-paper-reader.md)) | Read and analyze arXiv papers conversationally — fetch by ID, browse sections, compare abstracts, and get AI summaries. |
 | [LaTeX Paper Writing](usecases/latex-paper-writing.md) | Write and compile LaTeX papers conversationally with instant PDF preview — no local TeX installation needed. |
 
 ## Finance & Trading
